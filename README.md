@@ -65,9 +65,8 @@ A complete, end-to-end geospatial AI application that performs automated land us
 
 ## 🚀 Live Demo
 
-**🔗 [View Live Application](https://geoai-land-classification.streamlit.app)**
+**🔗 [View Live Application](https://geoai-land-classification.streamlit.app/)**
 
-*(Replace with your actual Streamlit Cloud URL after deployment)*
 
 ---
 
@@ -316,9 +315,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Your Name** — [@your_twitter](https://twitter.com/your_twitter) — your.email@example.com
+**Gowshik P** — [@your_linkedin](https://www.linkedin.com/in/gowshik-gis/) — gowshikpiramanayagam@gmail.com
 
-Project Link: [https://github.com/YOUR_USERNAME/geoai-land-classification](https://github.com/YOUR_USERNAME/geoai-land-classification)
+Project Link: [https://github.com/gowshik-gis/geoai-land-classification](https://github.com/gowshik-gis/geoai-land-classification)
 
 ---
 
