@@ -795,9 +795,9 @@ def main():
                 """, unsafe_allow_html=True)
 
             st.subheader("🚀 Quick Links")
-            st.link_button("📁 GitHub Repo", "https://github.com")
-            st.link_button("🌐 Live Demo", "https://streamlit.io")
-            st.link_button("📖 Documentation", "https://docs.streamlit.io")
+            st.link_button("📁 GitHub Repo", "https://github.com/gowshik-gis/geoai-land-classification")
+            st.link_button("🌐 Live Demo", "https://geoai-land-classification.streamlit.app/")
+            st.link_button("📖 Documentation", "https://github.com/gowshik-gis/geoai-land-classification")
 
             st.subheader("👤 Author")
             st.write("**Gowshik P**")
